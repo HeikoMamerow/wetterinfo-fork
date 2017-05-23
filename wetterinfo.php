@@ -257,7 +257,7 @@ class wetterinfoGadget extends WP_Widget {
 
 		echo '<div id="wetterinfo_data">&nbsp;</div>';
 		echo "\n <script>";
-		echo $wetter_data;
+		echo "\n\t" $wetter_data;
 		echo "\n </script>\n";
 		// End Tweak by Heiko
 		/////////////////////

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3823e05a-16a7-49ec-a093-e4092feacbb4" name="Default" comment="" />
+    <list default="true" id="3823e05a-16a7-49ec-a093-e4092feacbb4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wetterinfo.php" afterPath="$PROJECT_DIR$/wetterinfo.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +15,19 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="wetterinfo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wetterinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="1085">
+              <caret line="257" column="14" lean-forward="true" selection-start-line="257" selection-start-column="14" selection-end-line="257" selection-end-column="14" />
               <folding>
-                <marker date="1495553993930" expanded="true" signature="9244:9250" ph=" " />
-                <marker date="1495553993930" expanded="true" signature="9659:9665" ph=" " />
-                <marker date="1495553993930" expanded="true" signature="9692:9702" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9692:9715" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9916:9949" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9916:9950" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9916:9980" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9987:10031" ph="..." />
-                <marker date="1495553993930" expanded="true" signature="9987:10103" ph="..." />
+                <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
+                <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
+                <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
+                <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
+                <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
+                <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,7 +75,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1600" />
     <option name="y" value="27" />
-    <option name="width" value="1400" />
+    <option name="width" value="1390" />
     <option name="height" value="1773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -95,8 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +117,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,22 +148,22 @@
       <option name="presentableId" value="Default" />
       <updated>1495542036167</updated>
       <workItem from="1495542037450" duration="10055000" />
+      <workItem from="1495554730237" duration="86000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10055000" />
+    <option name="totallyTimeSpent" value="10141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1600" y="27" width="1400" height="1773" extended-state="4" />
+    <frame x="1600" y="27" width="1390" height="1773" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1841716" sideWeight="0.61929595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18703428" sideWeight="0.61929595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909092" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33312538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32938242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909092" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2517934" sideWeight="0.48520344" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31004366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -177,10 +178,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32938242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5382244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1618" y="666" width="2844" height="583" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42952126" sideWeight="0.38070405" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Runtime Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.111856036" sideWeight="0.2921212" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33312538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Copy/Paste" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -190,16 +193,33 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../Hielscher/PuPHPet/1b4R9X-2016-12-21-2/html</wordpressPath>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wetterinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
+            <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
+            <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -207,7 +227,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1422">
           <caret line="78" column="39" lean-forward="false" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -216,7 +235,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -224,18 +242,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wetterinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="1085">
+          <caret line="257" column="14" lean-forward="true" selection-start-line="257" selection-start-column="14" selection-end-line="257" selection-end-column="14" />
           <folding>
-            <marker date="1495553993930" expanded="true" signature="9244:9250" ph=" " />
-            <marker date="1495553993930" expanded="true" signature="9659:9665" ph=" " />
-            <marker date="1495553993930" expanded="true" signature="9692:9702" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9692:9715" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9916:9949" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9916:9950" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9916:9980" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9987:10031" ph="..." />
-            <marker date="1495553993930" expanded="true" signature="9987:10103" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
+            <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
+            <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
+            <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
           </folding>
         </state>
       </provider>
