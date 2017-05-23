@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3823e05a-16a7-49ec-a093-e4092feacbb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wetterinfo.php" afterPath="$PROJECT_DIR$/wetterinfo.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,38 +14,56 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="wetterinfo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wetterinfo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="977">
-              <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-              <folding>
-                <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
-                <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
-                <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
-                <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
-                <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
-                <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="wetterinfo.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/wetterinfo.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="4" column="201" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="201" />
+                  <folding>
+                    <marker date="1495555163493" expanded="true" signature="9428:9434" ph=" " />
+                    <marker date="1495555163493" expanded="true" signature="9843:9849" ph=" " />
+                    <marker date="1495555163493" expanded="true" signature="9876:9886" ph="..." />
+                    <marker date="1495555163493" expanded="true" signature="9876:9906" ph="..." />
+                    <marker date="1495555163493" expanded="true" signature="10107:10171" ph="..." />
+                    <marker date="1495555163493" expanded="true" signature="10178:10222" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="72">
+                    <caret line="3" column="98" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="98" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/readme.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="12" column="188" lean-forward="false" selection-start-line="12" selection-start-column="188" selection-end-line="12" selection-end-column="188" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -65,9 +84,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.txt" />
-        <option value="$PROJECT_DIR$/wetterinfo.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/wetterinfo.php" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -150,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495542036167</updated>
       <workItem from="1495542037450" duration="10055000" />
-      <workItem from="1495554730237" duration="260000" />
+      <workItem from="1495554730237" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10315000" />
+    <option name="totallyTimeSpent" value="10657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="27" width="1390" height="1773" extended-state="4" />
@@ -208,20 +227,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
-            <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
-            <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="9428:9434" ph=" " />
+            <marker date="1495555163493" expanded="true" signature="9843:9849" ph=" " />
+            <marker date="1495555163493" expanded="true" signature="9876:9886" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="9876:9906" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="10107:10171" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="10178:10222" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -232,29 +244,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="98" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="98" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wetterinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="977">
-          <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="4" column="201" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="201" />
           <folding>
-            <marker date="1495554816085" expanded="true" signature="9244:9250" ph=" " />
-            <marker date="1495554816085" expanded="true" signature="9659:9665" ph=" " />
-            <marker date="1495554816085" expanded="true" signature="9692:9702" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9692:9722" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9923:9987" ph="..." />
-            <marker date="1495554816085" expanded="true" signature="9994:10038" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="9428:9434" ph=" " />
+            <marker date="1495555163493" expanded="true" signature="9843:9849" ph=" " />
+            <marker date="1495555163493" expanded="true" signature="9876:9886" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="9876:9906" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="10107:10171" ph="..." />
+            <marker date="1495555163493" expanded="true" signature="10178:10222" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="188" lean-forward="false" selection-start-line="12" selection-start-column="188" selection-end-line="12" selection-end-column="188" />
+          <folding />
         </state>
       </provider>
     </entry>

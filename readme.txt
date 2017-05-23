@@ -1,16 +1,16 @@
 === Plugin Name ===
-Contributors: wetter.info
-Donate link: https://www.wetter.info/
+Contributors: Heiko Mamerow
+Donate link: https://heikomamerow.de
 Tags: forecast, vorhersage, Weather, weather forecast, wetter, Wettervorhersage
-Requires at least: 2.5
-Tested up to: 3.1
-Stable tag: 1.0
-
-Mit dem Wetter-Widget von wetter.info kann spielend leicht der aktuelle Vorhersagewert für deutsche und ausländische Städte in die eigene Webseite integriert werden. Dabei kann das Design des Widgets frei gewählt oder aber einfach von Ihrer Webseite übernommen werden.
+Requires at least: 4.7
+Tested up to: 4.7.3
+Stable tag: 1.2.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Mit dem Wetter-Widget von wetter.info kann spielend leicht der aktuelle Vorhersagewert für deutsche und ausländische Städte in die eigene Webseite integriert werden. Dabei kann das Design des Widgets frei gewählt oder aber einfach von Ihrer Webseite übernommen werden.
+Fork of the Wetter.info Wetter Gadget. The origin plugin (https://wordpress.org/plugins/wetterinfo-wetter/) gives you mixed contend: path with http. This fork has a tweak for this problem.
 
 Aktuell nur in deutscher Sprache verfügbar.
 

@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Wetter.info Wetter Gadget
-Plugin URI: https://www.wetter.info
-Description: Aktuelles Wetter für Ihre Homepage
-Version: 1.2
-Author: Deutsche Telekom
-Author URI: https://www.wetter.info
+Plugin Name: Wetter.info Wetter Gadget Fork
+Plugin URI: https://github.com/HeikoMamerow/wetterinfo-fork
+Description: Fork of the Wetter.info Wetter Gadget. The origin plugin (https://wordpress.org/plugins/wetterinfo-wetter/) gives you mixed contend: path with http. This fork has a tweak for this problem.
+Version: 1.2.1
+Author: Heiko Mamerow
+Author URI: https://heikomamerow.de
 License: GPL
-Stable Tag: 1.2
+Stable Tag: 1.2.1
 */
 define( 'WETTERINFO_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 
